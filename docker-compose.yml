@@ -1,0 +1,7 @@
+stat-trkr:
+  container_name: stat-trkr
+  build: .
+  ports:
+    - 3000
+  environment:
+    - VIRTUAL_HOST=stat-trkr.docker
