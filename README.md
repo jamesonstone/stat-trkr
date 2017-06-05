@@ -1,2 +1,5 @@
 # stat-trkr
-storing and processing stats
+storing and processing data
+
+## Run
+```docker-compose up -d stat-trkr```
